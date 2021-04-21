@@ -1,2 +1,2 @@
-# rock-paper-scissors-js-ui
-Rock Paper Scissors javascript exercise with user interface
+# rock-paper-scissors-js
+The Odin Project: Rock Paper Scissors
