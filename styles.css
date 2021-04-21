@@ -1,3 +1,20 @@
 h1 {
   text-align: center;
 }
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  margin: 3px;
+}
+
+.results {
+  text-align: center;
+}
+
+.winner {
+  text-align: center;
+}
